@@ -25,7 +25,6 @@ function App() {
           {/* for 404 page */}
           {/* <Route path='/404' element={<Single />} /> */}
 
-          {/* Additional routes */}
         </Routes>
       </div>
     </BrowserRouter>

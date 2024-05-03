@@ -121,7 +121,7 @@ const Work = () => {
 
               <a href="https://github.com/Nikkobondoc/Whack-a-Goomba" target="_blank"><Icon className='icon' icon="line-md:github-twotone" width="24" height="24" /></a>
               
-              <a href="https://bdwmassage.bcitwebdeveloper.ca/" target="_blank"><Icon className='icon' icon="fluent:globe-arrow-up-24-regular" width="24" height="24" /></a>
+              <a href="https://nikkobondoc.com/javascript-game/" target="_blank"><Icon className='icon' icon="fluent:globe-arrow-up-24-regular" width="24" height="24" /></a>
 
             </div>
           </div>

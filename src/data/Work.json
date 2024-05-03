@@ -38,8 +38,8 @@
             "id":"4",
             "image":"Whack-a-gooma.PNG",
             "image-description":"Whack a Goomba",
-            "livesite":"",
-            "github":"",
+            "livesite":"https://nikkobondoc.com/javascript-game/",
+            "github":"https://github.com/Nikkobondoc/Whack-a-Goomba",
             "tools":["devicon:html5-wordmark","logos:css-3","logos:javascript","line-md:github-twotone","skill-icons:git"],
             "about":"Step into the whimsical world of Whack a Goomba, a delightful homage to the classic whack-a-mole game, lovingly crafted with the trifecta of web technologies: HTML, CSS, and JavaScript. Prepare to embark on a journey where mischievous Goombas pop up, eagerly awaiting a playful tap! With its charming graphics and intuitive gameplay, this HTML5 creation is more than just a game—it's a portal to hours of nostalgic fun and entertainment.",
             "learned":"Whack a Goomba stands as a testament to exemplary HTML5 game development, offering a nostalgic journey reminiscent of the classic whack-a-mole experience. Crafted with precision using HTML, CSS, and JavaScript, this game presents an engaging gameplay where Goombas emerge, awaiting strategic taps with seamless interactivity This project served as a platform for honing expertise in HTML, CSS, and JavaScript, while also showcasing proficiency in graphic design and user experience refinement. The meticulous attention to detail in crafting captivating visuals and intuitive gameplay reflects a commitment to excellence in web development and game design. Embrace this immersive experience as a testament to both skill and passion, offering hours of enjoyment and a window into the world of interactive entertainment. Whether reliving cherished memories or seeking a captivating diversion, Whack a Goomba stands ready to deliver an experience that transcends mere recreation, offering a professional-grade blend of innovation and nostalgia."

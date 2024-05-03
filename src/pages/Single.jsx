@@ -53,6 +53,7 @@ const Single = () => {
             <img className='image-single' src={`/images/${data.image}`} alt="" />
           </div>
           <div className='tools'>
+            <h2>Links</h2>
             <a href={data.livesite} target="_blank" rel="noopener noreferrer">
               <Icon className='icon' icon="fluent:globe-arrow-up-24-regular" width="24" height="24" />
             </a>
@@ -60,6 +61,7 @@ const Single = () => {
             <a href={data.github} target="_blank" rel="noopener noreferrer">
               <Icon className='icon' icon="line-md:github-twotone" width="24" height="24" />
             </a>
+            <h2>Tools Used</h2>
 
             <p>{data.tools && data.tools.map(el => <Icon icon={el} width="24" height="24" />)}</p>
           </div>

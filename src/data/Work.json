@@ -1,0 +1,48 @@
+{
+    "work": [
+        {
+            "title":"Wowies",
+            "id":"1",
+            "image":"Wowies-desktop.PNG",
+            "image-description":"Wowies",
+            "livesite":"https://nikkobondoc.com/WOWIES/",
+            "github":"https://github.com/Nikkobondoc/Movie-Database-Wowies",
+            "tools":["devicon:html5-wordmark","logos:css-3","logos:react","logos:javascript","devicon:photoshop","devicon:xd","devicon:jquery","line-md:github-twotone","skill-icons:git","skill-icons:sass","dashicons:rest-api","logos:npm"],
+            "about":"Welcome to Wowies, the pinnacle of cinematic indulgence. Our platform seamlessly integrates with the TMDB API, granting you access to an extensive library of films. With Wowies, navigating through this vast collection is a breeze, ensuring you discover cinematic gems with ease. But Wowies isn't just about exploration; it's about personalization. Tailor your movie experience by curating bespoke lists of your favorite films. Whether you're a fan of classics or crave the latest releases, Wowies empowers you to immerse yourself in the enchanting world of cinema, all from the comfort of your own screen",
+            "learned":"Wowies, a dynamic movie database website, I utilized a range of tools and technologies including HTML5, CSS3, React, JavaScript, Photoshop, XD, jQuery, Git, Sass, NPM, and REST API. These resources were instrumental in effectively harnessing the TMDB API to provide users with comprehensive movie information. Despite challenges, such as ensuring a seamless user experience and implementing personalized features like curated movie lists, I navigated through them successfully. Wowies has significantly enhanced user engagement with cinematic wonders, redefining the way users interact with movie databases and delivering a transformative experience."
+        },
+        {
+            "title":"Beloved Duck Wellness",
+            "id":"2",
+            "image":"bdw.PNG",
+            "image-description":"Beloved Duck Wellness",
+            "livesite":"https://bdwmassage.bcitwebdeveloper.ca/",
+            "github":"https://github.com/htpwebdesign/bdwmassage-theme",
+            "tools":["devicon:html5-wordmark","logos:css-3","logos:javascript","line-md:github-twotone","skill-icons:git","skill-icons:sass","ic:baseline-wordpress","devicon:woocommerce"],
+            "about":"At Beloved Duck Wellness, we've crafted more than just a website; it's a sanctuary for your well-being. With our WordPress WooCommerce platform, embark on a journey of relaxation and rejuvenation like never before. Browse through an array of massage options tailored to your needs, and select from a diverse team of skilled therapists to guide you on your wellness journey. Booking an appointment is a breeze, ensuring your tranquility is just a click away. Plus, stay informed and inspired with our latest blogs dedicated to the art and science of massages. Welcome to Beloved Duck Wellness, where serenity meets sophistication.",
+            "learned":"At Beloved Duck Wellness, our website is more than just functional; it's a sanctuary for holistic well-being. Utilizing HTML5, CSS3, JavaScript, Git, Sass, WordPress, and WooCommerce, we created a seamless platform for relaxation and rejuvenation. This project taught me valuable skills in WordPress customization, WooCommerce integration, and content management. Explore personalized massage options, book appointments effortlessly, and stay informed with our insightful blogs. Welcome to Beloved Duck Wellness, where serenity meets sophistication."
+        },
+        {
+            "title": "Portfolio Project",
+            "id":"3",
+            "image":"Capture.PNG",
+            "image-description":"Portfolio Project",
+            "livesite":"/",
+            "github": "",
+            "tools": ["devicon:html5-wordmark","logos:css-3","logos:react","logos:javascript","devicon:photoshop","devicon:xd","skill-icons:sass","line-md:github-twotone","skill-icons:git"],
+            "about": "Welcome to my React-based portfolio website! Here, I showcase my skills and projects succinctly and stylishly. With clean design and easy navigation, explore my expertise and past work effortlessly. From coding languages mastered to innovative projects undertaken, find everything you need to know about me in one convenient place. Welcome to my digital portfolio—a window into my world of creativity and capability.",
+            "learned": "React-based portfolio website! Using HTML5, CSS3, JavaScript, React, Git, Sass, Photoshop, and XD, I've created a sleek platform to showcase my skills and projects. Through this project, I honed my proficiency in React and design tools like Photoshop and XD. Explore my expertise and past work effortlessly with clean design and easy navigation. From coding languages mastered to innovative projects undertaken, find everything you need to know about me in one convenient place. Welcome to my digital portfolio—a window into my world of creativity and capability."
+        },
+        {
+            "title":"Whack a Goomba",
+            "id":"4",
+            "image":"Whack-a-gooma.PNG",
+            "image-description":"Whack a Goomba",
+            "livesite":"",
+            "github":"",
+            "tools":["devicon:html5-wordmark","logos:css-3","logos:javascript","line-md:github-twotone","skill-icons:git"],
+            "about":"Step into the whimsical world of Whack a Goomba, a delightful homage to the classic whack-a-mole game, lovingly crafted with the trifecta of web technologies: HTML, CSS, and JavaScript. Prepare to embark on a journey where mischievous Goombas pop up, eagerly awaiting a playful tap! With its charming graphics and intuitive gameplay, this HTML5 creation is more than just a game—it's a portal to hours of nostalgic fun and entertainment.",
+            "learned":"Whack a Goomba stands as a testament to exemplary HTML5 game development, offering a nostalgic journey reminiscent of the classic whack-a-mole experience. Crafted with precision using HTML, CSS, and JavaScript, this game presents an engaging gameplay where Goombas emerge, awaiting strategic taps with seamless interactivity This project served as a platform for honing expertise in HTML, CSS, and JavaScript, while also showcasing proficiency in graphic design and user experience refinement. The meticulous attention to detail in crafting captivating visuals and intuitive gameplay reflects a commitment to excellence in web development and game design. Embrace this immersive experience as a testament to both skill and passion, offering hours of enjoyment and a window into the world of interactive entertainment. Whether reliving cherished memories or seeking a captivating diversion, Whack a Goomba stands ready to deliver an experience that transcends mere recreation, offering a professional-grade blend of innovation and nostalgia."
+        }
+    ]
+}

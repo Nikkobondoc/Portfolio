@@ -28,7 +28,7 @@
             "image":"Capture.PNG",
             "image-description":"Portfolio Project",
             "livesite":"/",
-            "github": "",
+            "github": "https://github.com/Nikkobondoc/Portfolio",
             "tools": ["devicon:html5-wordmark","logos:css-3","logos:react","logos:javascript","devicon:photoshop","devicon:xd","skill-icons:sass","line-md:github-twotone","skill-icons:git"],
             "about": "Welcome to my React-based portfolio website! Here, I showcase my skills and projects succinctly and stylishly. With clean design and easy navigation, explore my expertise and past work effortlessly. From coding languages mastered to innovative projects undertaken, find everything you need to know about me in one convenient place. Welcome to my digital portfolio—a window into my world of creativity and capability.",
             "learned": "React-based portfolio website! Using HTML5, CSS3, JavaScript, React, Git, Sass, Photoshop, and XD, I've created a sleek platform to showcase my skills and projects. Through this project, I honed my proficiency in React and design tools like Photoshop and XD. Explore my expertise and past work effortlessly with clean design and easy navigation. From coding languages mastered to innovative projects undertaken, find everything you need to know about me in one convenient place. Welcome to my digital portfolio—a window into my world of creativity and capability."

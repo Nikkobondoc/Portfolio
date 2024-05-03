@@ -99,7 +99,7 @@ const Work = () => {
 
               <NavLink to ={`/work/3`}><Icon className='icon' icon="material-symbols:arrows-more-up" width="24" height="24" /></NavLink>
 
-              <a href="/" target="_blank"><Icon className='icon' icon="line-md:github-twotone" width="24" height="24" /></a>
+              <a href="https://github.com/Nikkobondoc/Portfolio" target="_blank"><Icon className='icon' icon="line-md:github-twotone" width="24" height="24" /></a>
               
               <a href="/" target="_blank"><Icon className='icon' icon="fluent:globe-arrow-up-24-regular" width="24" height="24" /></a>
 
@@ -119,7 +119,7 @@ const Work = () => {
 
               <NavLink to ={`/work/4`}><Icon className='icon' icon="material-symbols:arrows-more-up" width="24" height="24" /></NavLink>
 
-              <a href="https://github.com/Nikkobondoc/Movie-Database-Wowies" target="_blank"><Icon className='icon' icon="line-md:github-twotone" width="24" height="24" /></a>
+              <a href="https://github.com/Nikkobondoc/Whack-a-Goomba" target="_blank"><Icon className='icon' icon="line-md:github-twotone" width="24" height="24" /></a>
               
               <a href="https://bdwmassage.bcitwebdeveloper.ca/" target="_blank"><Icon className='icon' icon="fluent:globe-arrow-up-24-regular" width="24" height="24" /></a>
 

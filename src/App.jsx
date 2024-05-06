@@ -18,8 +18,6 @@ function App() {
           <Route path='/info' element={<Info />} />
           <Route path='/work' element={<Work />} />
           <Route path='/work/:id' element={<Single />} />
-          {/* if i want to make multiple pages */}
-          {/* <Route path='/work/Wowies' element={<Single />} /> */}
           {/* for mistypes */}
           {/* <Route path='/work/*' element={<Single />} /> */}
           {/* for 404 page */}
